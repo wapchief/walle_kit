@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:walle_kit/walle_kit.dart';
+import 'package:walle_kit_v2/walle_kit.dart';
 
 void main() => runApp(MyApp());
 

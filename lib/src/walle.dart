@@ -1,4 +1,4 @@
-import 'package:walle_kit/src/walle_kit_platform_interface.dart';
+import 'package:walle_kit_v2/src/walle_kit_platform_interface.dart';
 
 class Walle {
   const Walle._();

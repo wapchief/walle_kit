@@ -1,7 +1,7 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:walle_kit/src/model/channel_info.dart';
-import 'package:walle_kit/src/walle_kit_method_channel.dart';
+import 'package:walle_kit_v2/src/model/channel_info.dart';
+import 'package:walle_kit_v2/src/walle_kit_method_channel.dart';
 
 void main() {
   final MethodChannelWalleKit platform = MethodChannelWalleKit();

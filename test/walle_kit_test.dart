@@ -2,10 +2,10 @@ import 'dart:io';
 
 import 'package:flutter_test/flutter_test.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
-import 'package:walle_kit/src/model/channel_info.dart';
-import 'package:walle_kit/src/walle.dart';
-import 'package:walle_kit/src/walle_kit_method_channel.dart';
-import 'package:walle_kit/src/walle_kit_platform_interface.dart';
+import 'package:walle_kit_v2/src/model/channel_info.dart';
+import 'package:walle_kit_v2/src/walle.dart';
+import 'package:walle_kit_v2/src/walle_kit_method_channel.dart';
+import 'package:walle_kit_v2/src/walle_kit_platform_interface.dart';
 
 class MockWalleKitPlatform
     with MockPlatformInterfaceMixin

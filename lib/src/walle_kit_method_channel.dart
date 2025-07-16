@@ -2,8 +2,8 @@ import 'dart:io';
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
-import 'package:walle_kit/src/model/channel_info.dart';
-import 'package:walle_kit/src/walle_kit_platform_interface.dart';
+import 'package:walle_kit_v2/src/model/channel_info.dart';
+import 'package:walle_kit_v2/src/walle_kit_platform_interface.dart';
 
 /// An implementation of [WalleKitPlatform] that uses method channels.
 class MethodChannelWalleKit extends WalleKitPlatform {

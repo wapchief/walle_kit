@@ -18,7 +18,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  walle_kit:
+  walle_kit_v2:
     # When depending on this package from a real application you should use:
     #   walle_kit: ^x.y.z
     # See https://dart.dev/tools/pub/dependencies#version-constraints

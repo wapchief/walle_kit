@@ -1,6 +1,6 @@
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
-import 'package:walle_kit/src/model/channel_info.dart';
-import 'package:walle_kit/src/walle_kit_method_channel.dart';
+import 'package:walle_kit_v2/src/model/channel_info.dart';
+import 'package:walle_kit_v2/src/walle_kit_method_channel.dart';
 
 abstract class WalleKitPlatform extends PlatformInterface {
   /// Constructs a WalleKitPlatform.
